@@ -24,7 +24,7 @@ security = HTTPBasic()
 def get_settings() -> Dict[str, str]:
     return {
         "ADMIN_USER": os.getenv("ADMIN_USER", "admin"),
-        "ADMIN_PASS": os.getenv("ADMIN_PASS", "197288zz"),
+        "ADMIN_PASS": os.getenv("ADMIN_PASS", "change_me"),
         "DB_PATH": os.getenv("DB_PATH", "/data/rsvp.db"),
     }
 
