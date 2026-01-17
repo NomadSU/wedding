@@ -1,0 +1,1150 @@
+{
+  "meta": {
+    "title": "Владимир и Лилия",
+    "og": {
+      "url": "https://vladimirliliya.com",
+      "title": "Владимир и Лилия",
+      "description": "",
+      "type": "website",
+      "image": ""
+    },
+    "canonical": "package2.html"
+  },
+  "sections": [
+    {
+      "bucket": -1,
+      "label": "Блок по высоте ~-900-0px (по странице сверху вниз)",
+      "texts": [],
+      "links": [],
+      "images": [
+        {
+          "key": "image_01",
+          "elemId": "1750141648455",
+          "where": "top=-82.0, left=930.0",
+          "alt": "",
+          "original": "https://static.tildacdn.com/tild6265-3639-4331-b462-666539656165/Layer_6.png",
+          "zoomUrl": ""
+        },
+        {
+          "key": "image_02",
+          "elemId": "1750136992537",
+          "where": "top=-78.0, left=487.0",
+          "alt": "",
+          "original": "https://static.tildacdn.com/tild3938-3438-4264-b134-653231363263/Layer_0.png",
+          "zoomUrl": ""
+        },
+        {
+          "key": "image_03",
+          "elemId": "1750137153599",
+          "where": "top=-30.0, left=-97.0",
+          "alt": "",
+          "original": "https://static.tildacdn.com/tild6233-6366-4661-b632-353965373836/Layer_1.png",
+          "zoomUrl": ""
+        }
+      ]
+    },
+    {
+      "bucket": 0,
+      "label": "Блок по высоте ~0-900px (по странице сверху вниз)",
+      "texts": [],
+      "links": [],
+      "images": [
+        {
+          "key": "image_01",
+          "elemId": "1750141600837",
+          "where": "top=20.0, left=146.0",
+          "alt": "",
+          "original": "https://static.tildacdn.com/tild3233-3535-4763-b361-653433663561/04b4152db4cc6f876be9.png",
+          "zoomUrl": ""
+        },
+        {
+          "key": "image_02",
+          "elemId": "1750144990568",
+          "where": "top=115.0, left=146.0",
+          "alt": "",
+          "original": "https://static.tildacdn.com/tild3366-6336-4638-a238-643061356532/2a3afaafa858f1ba48f4.png",
+          "zoomUrl": ""
+        },
+        {
+          "key": "image_03",
+          "elemId": "1750145003686",
+          "where": "top=141.0, left=120.0",
+          "alt": "",
+          "original": "https://static.tildacdn.com/tild3037-3733-4138-b335-623237613231/182815ba1ccf6a99a2bd.png",
+          "zoomUrl": ""
+        },
+        {
+          "key": "image_04",
+          "elemId": "1750145016135",
+          "where": "top=141.0, left=146.0",
+          "alt": "",
+          "original": "https://static.tildacdn.com/tild6338-3039-4330-b636-373138623566/f789d0122dc0e79bcc03.png",
+          "zoomUrl": ""
+        },
+        {
+          "key": "image_05",
+          "elemId": "1750141212917",
+          "where": "top=158.0, left=653.0",
+          "alt": "",
+          "original": "img/lilya.png",
+          "zoomUrl": ""
+        },
+        {
+          "key": "image_06",
+          "elemId": "1750141342337",
+          "where": "top=163.0, left=583.0",
+          "alt": "",
+          "original": "img/plus.png",
+          "zoomUrl": ""
+        },
+        {
+          "key": "image_07",
+          "elemId": "1750141204723",
+          "where": "top=168.0, left=403.0",
+          "alt": "",
+          "original": "img/vova.png",
+          "zoomUrl": ""
+        },
+        {
+          "key": "image_08",
+          "elemId": "1750145155423",
+          "where": "top=185.0, left=961.0",
+          "alt": "",
+          "original": "https://static.tildacdn.com/tild6338-3039-4330-b636-373138623566/f789d0122dc0e79bcc03.png",
+          "zoomUrl": ""
+        },
+        {
+          "key": "image_09",
+          "elemId": "1750140205169",
+          "where": "top=202.0, left=414.0",
+          "alt": "",
+          "original": "img/we.png",
+          "zoomUrl": ""
+        },
+        {
+          "key": "image_10",
+          "elemId": "1750145155425",
+          "where": "top=214.0, left=1001.0",
+          "alt": "",
+          "original": "https://static.tildacdn.com/tild3037-3733-4138-b335-623237613231/182815ba1ccf6a99a2bd.png",
+          "zoomUrl": ""
+        },
+        {
+          "key": "image_11",
+          "elemId": "1750145155419",
+          "where": "top=230.0, left=980.0",
+          "alt": "",
+          "original": "https://static.tildacdn.com/tild3366-6336-4638-a238-643061356532/2a3afaafa858f1ba48f4.png",
+          "zoomUrl": ""
+        },
+        {
+          "key": "image_12",
+          "elemId": "1750158605008",
+          "where": "top=240.0, left=-1927.0",
+          "alt": "",
+          "original": "https://static.tildacdn.com/tild3531-3665-4836-b831-653931396130/Layer_3_1.png",
+          "zoomUrl": ""
+        },
+        {
+          "key": "image_13",
+          "elemId": "1750143387231",
+          "where": "top=249.0, left=871.0",
+          "alt": "",
+          "original": "https://static.tildacdn.com/tild3163-3739-4838-b730-613732323461/4c2b8d90f01cf94a0f41.png",
+          "zoomUrl": ""
+        },
+        {
+          "key": "image_14",
+          "elemId": "1750146270154",
+          "where": "top=256.0, left=404.0",
+          "alt": "",
+          "original": "https://static.tildacdn.com/tild3139-6435-4131-a565-373264356665/Rectangle_1.png",
+          "zoomUrl": ""
+        },
+        {
+          "key": "image_15",
+          "elemId": "1750146593026",
+          "where": "top=258.0, left=753.0",
+          "alt": "",
+          "original": "https://static.tildacdn.com/tild3139-6435-4131-a565-373264356665/Rectangle_1.png",
+          "zoomUrl": ""
+        },
+        {
+          "key": "image_16",
+          "elemId": "1750141556617",
+          "where": "top=327.0, left=880.0",
+          "alt": "",
+          "original": "https://static.tildacdn.com/tild3065-6131-4538-b163-343632666530/51ea9c393843775f6d72.png",
+          "zoomUrl": ""
+        },
+        {
+          "key": "image_17",
+          "elemId": "1750146593031",
+          "where": "top=360.0, left=761.0",
+          "alt": "",
+          "original": "https://static.tildacdn.com/tild3139-6435-4131-a565-373264356665/Rectangle_1.png",
+          "zoomUrl": ""
+        },
+        {
+          "key": "image_18",
+          "elemId": "1750146333557",
+          "where": "top=363.0, left=380.0",
+          "alt": "",
+          "original": "https://static.tildacdn.com/tild3139-6435-4131-a565-373264356665/Rectangle_1.png",
+          "zoomUrl": ""
+        },
+        {
+          "key": "image_19",
+          "elemId": "1750141441494",
+          "where": "top=390.0, left=475.0",
+          "alt": "",
+          "original": "https://static.tildacdn.com/tild3765-6166-4862-a564-306561376238/0da10ad7af70380ba9b5.png",
+          "zoomUrl": ""
+        },
+        {
+          "key": "image_20",
+          "elemId": "1750146339733",
+          "where": "top=455.0, left=404.0",
+          "alt": "",
+          "original": "https://static.tildacdn.com/tild3139-6435-4131-a565-373264356665/Rectangle_1.png",
+          "zoomUrl": ""
+        },
+        {
+          "key": "image_21",
+          "elemId": "1750146593034",
+          "where": "top=457.0, left=753.0",
+          "alt": "",
+          "original": "https://static.tildacdn.com/tild3139-6435-4131-a565-373264356665/Rectangle_1.png",
+          "zoomUrl": ""
+        },
+        {
+          "key": "image_22",
+          "elemId": "1750144898880",
+          "where": "top=654.0, left=402.0",
+          "alt": "",
+          "original": "img/dear.png",
+          "zoomUrl": ""
+        },
+        {
+          "key": "image_23",
+          "elemId": "1750145360059",
+          "where": "top=746.0, left=520.0",
+          "alt": "",
+          "original": "https://static.tildacdn.com/tild3165-6334-4239-a264-643433633833/4253153ccdc7312ca496.png",
+          "zoomUrl": ""
+        }
+      ]
+    },
+    {
+      "bucket": 1,
+      "label": "Блок по высоте ~900-1800px (по странице сверху вниз)",
+      "texts": [
+        {
+          "key": "text_01",
+          "elemId": "1750145408076",
+          "where": "top=947.0, left=320.0",
+          "preview": "Один день в этом году станет для нас особенно важным, и мы хотим провести его в ",
+          "value": "Один день в этом году станет для нас особенно важным, и мы хотим провести его в кругу близких и друзей!<br/>С большим удовольствием приглашаем вас на нашу свадебную вечеринку, которая состоится:"
+        },
+        {
+          "key": "text_02",
+          "elemId": "1750147052249",
+          "where": "top=1136.0, left=440.0",
+          "preview": "АПРЕЛЬ",
+          "value": "АПРЕЛЬ"
+        },
+        {
+          "key": "text_03",
+          "elemId": "1750147052255",
+          "where": "top=1136.0, left=689.0",
+          "preview": "2026",
+          "value": "2026"
+        },
+        {
+          "key": "text_04",
+          "elemId": "1750147052263",
+          "where": "top=1180.0, left=430.0",
+          "preview": "ПН",
+          "value": "ПН"
+        },
+        {
+          "key": "text_05",
+          "elemId": "1750147052286",
+          "where": "top=1180.0, left=481.0",
+          "preview": "ВТ",
+          "value": "ВТ"
+        },
+        {
+          "key": "text_06",
+          "elemId": "1750147052283",
+          "where": "top=1180.0, left=530.0",
+          "preview": "СР",
+          "value": "СР"
+        },
+        {
+          "key": "text_07",
+          "elemId": "1750147052281",
+          "where": "top=1180.0, left=579.0",
+          "preview": "ЧТ",
+          "value": "ЧТ"
+        },
+        {
+          "key": "text_08",
+          "elemId": "1750147052278",
+          "where": "top=1180.0, left=628.0",
+          "preview": "ПТ",
+          "value": "ПТ"
+        },
+        {
+          "key": "text_09",
+          "elemId": "1750147052276",
+          "where": "top=1180.0, left=677.0",
+          "preview": "СБ",
+          "value": "СБ"
+        },
+        {
+          "key": "text_10",
+          "elemId": "1750147052273",
+          "where": "top=1180.0, left=728.0",
+          "preview": "ВС",
+          "value": "ВС"
+        },
+        {
+          "key": "text_11",
+          "elemId": "1750147052348",
+          "where": "top=1209.0, left=431.0",
+          "preview": "30",
+          "value": "30"
+        },
+        {
+          "key": "text_12",
+          "elemId": "1750147052252",
+          "where": "top=1209.0, left=480.0",
+          "preview": "31",
+          "value": "31"
+        },
+        {
+          "key": "text_13",
+          "elemId": "1750147052291",
+          "where": "top=1209.0, left=531.0",
+          "preview": "1",
+          "value": "1"
+        },
+        {
+          "key": "text_14",
+          "elemId": "1750147052288",
+          "where": "top=1209.0, left=580.0",
+          "preview": "2",
+          "value": "2"
+        },
+        {
+          "key": "text_15",
+          "elemId": "1750147052351",
+          "where": "top=1209.0, left=629.0",
+          "preview": "3",
+          "value": "3"
+        },
+        {
+          "key": "text_16",
+          "elemId": "1750147052353",
+          "where": "top=1209.0, left=678.0",
+          "preview": "4",
+          "value": "4"
+        },
+        {
+          "key": "text_17",
+          "elemId": "1750147052355",
+          "where": "top=1209.0, left=727.0",
+          "preview": "5",
+          "value": "5"
+        },
+        {
+          "key": "text_18",
+          "elemId": "1750147052270",
+          "where": "top=1255.0, left=431.0",
+          "preview": "6",
+          "value": "6"
+        },
+        {
+          "key": "text_19",
+          "elemId": "1750147052244",
+          "where": "top=1255.0, left=480.0",
+          "preview": "7",
+          "value": "7"
+        },
+        {
+          "key": "text_20",
+          "elemId": "1750147052301",
+          "where": "top=1255.0, left=531.0",
+          "preview": "8",
+          "value": "8"
+        },
+        {
+          "key": "text_21",
+          "elemId": "1750147052306",
+          "where": "top=1255.0, left=580.0",
+          "preview": "9",
+          "value": "9"
+        },
+        {
+          "key": "text_22",
+          "elemId": "1750147052308",
+          "where": "top=1255.0, left=629.0",
+          "preview": "10",
+          "value": "10"
+        },
+        {
+          "key": "text_23",
+          "elemId": "1750147052310",
+          "where": "top=1255.0, left=678.0",
+          "preview": "11",
+          "value": "11"
+        },
+        {
+          "key": "text_24",
+          "elemId": "1750147052313",
+          "where": "top=1255.0, left=727.0",
+          "preview": "12",
+          "value": "12"
+        },
+        {
+          "key": "text_25",
+          "elemId": "1750147052295",
+          "where": "top=1299.0, left=480.0",
+          "preview": "13",
+          "value": "13"
+        },
+        {
+          "key": "text_26",
+          "elemId": "1750147052320",
+          "where": "top=1299.0, left=531.0",
+          "preview": "14",
+          "value": "14"
+        },
+        {
+          "key": "text_27",
+          "elemId": "1750147052323",
+          "where": "top=1299.0, left=580.0",
+          "preview": "15",
+          "value": "15"
+        },
+        {
+          "key": "text_28",
+          "elemId": "1750147052325",
+          "where": "top=1299.0, left=629.0",
+          "preview": "16",
+          "value": "16"
+        },
+        {
+          "key": "text_29",
+          "elemId": "1750147052327",
+          "where": "top=1299.0, left=678.0",
+          "preview": "17",
+          "value": "17"
+        },
+        {
+          "key": "text_30",
+          "elemId": "1750147052329",
+          "where": "top=1299.0, left=727.0",
+          "preview": "18",
+          "value": "18"
+        },
+        {
+          "key": "text_31",
+          "elemId": "1750147052260",
+          "where": "top=1301.0, left=431.0",
+          "preview": "19",
+          "value": "19"
+        },
+        {
+          "key": "text_32",
+          "elemId": "1750147052318",
+          "where": "top=1343.0, left=480.0",
+          "preview": "20",
+          "value": "20"
+        },
+        {
+          "key": "text_33",
+          "elemId": "1750147052337",
+          "where": "top=1343.0, left=531.0",
+          "preview": "21",
+          "value": "21"
+        },
+        {
+          "key": "text_34",
+          "elemId": "1750147052339",
+          "where": "top=1343.0, left=580.0",
+          "preview": "22",
+          "value": "22"
+        },
+        {
+          "key": "text_35",
+          "elemId": "1750147052341",
+          "where": "top=1343.0, left=629.0",
+          "preview": "23",
+          "value": "23"
+        },
+        {
+          "key": "text_36",
+          "elemId": "1750147052343",
+          "where": "top=1343.0, left=678.0",
+          "preview": "24",
+          "value": "24"
+        },
+        {
+          "key": "text_37",
+          "elemId": "1750147052345",
+          "where": "top=1343.0, left=727.0",
+          "preview": "25",
+          "value": "25"
+        },
+        {
+          "key": "text_38",
+          "elemId": "1750147052315",
+          "where": "top=1346.0, left=431.0",
+          "preview": "26",
+          "value": "26"
+        },
+        {
+          "key": "text_39",
+          "elemId": "1750147052334",
+          "where": "top=1389.0, left=480.0",
+          "preview": "27",
+          "value": "27"
+        },
+        {
+          "key": "text_40",
+          "elemId": "1750147052258",
+          "where": "top=1389.0, left=531.0",
+          "preview": "28",
+          "value": "28"
+        },
+        {
+          "key": "text_41",
+          "elemId": "1750147052267",
+          "where": "top=1389.0, left=580.0",
+          "preview": "29",
+          "value": "29"
+        },
+        {
+          "key": "text_42",
+          "elemId": "1750147052303",
+          "where": "top=1389.0, left=629.0",
+          "preview": "30",
+          "value": "30"
+        },
+        {
+          "key": "text_43",
+          "elemId": "1750147052293",
+          "where": "top=1389.0, left=678.0",
+          "preview": "1",
+          "value": "1"
+        },
+        {
+          "key": "text_44",
+          "elemId": "1750147052298",
+          "where": "top=1389.0, left=727.0",
+          "preview": "2",
+          "value": "2"
+        },
+        {
+          "key": "text_45",
+          "elemId": "1750147052332",
+          "where": "top=1390.0, left=431.0",
+          "preview": "3",
+          "value": "3"
+        },
+        {
+          "key": "text_46",
+          "elemId": "1750151229012",
+          "where": "top=1623.0, left=320.0",
+          "preview": "Свадьба пройдёт в комплексе Zagarro Club по адресу: г. Краснодар, ул. Ростовское шоссе, 25/4 (въезд со стороны Ростовского шоссе)",
+          "value": "Свадьба пройдёт в комплексе <span style=\"font-weight: 600;\"> Zagarro Club </span><br/> по адресу: г. Краснодар, ул. Ростовское шоссе, 25/4 <br/> <em>(въезд со стороны Ростовского шоссе)</em>"
+        }
+      ],
+      "links": [],
+      "images": [
+        {
+          "key": "image_01",
+          "elemId": "1750146986794",
+          "where": "top=1077.0, left=466.0",
+          "alt": "",
+          "original": "img/april.png",
+          "zoomUrl": ""
+        },
+        {
+          "key": "image_02",
+          "elemId": "1750151377289",
+          "where": "top=1246.0, left=-197.0",
+          "alt": "",
+          "original": "https://static.tildacdn.com/tild6636-3461-4766-b833-626636643839/noroot.png",
+          "zoomUrl": ""
+        },
+        {
+          "key": "image_03",
+          "elemId": "1750147676968",
+          "where": "top=1272.0, left=670.0",
+          "alt": "",
+          "original": "https://static.tildacdn.com/tild3537-6633-4264-b631-306130333739/s.png",
+          "zoomUrl": ""
+        },
+        {
+          "key": "image_04",
+          "elemId": "1750151499379",
+          "where": "top=1454.0, left=132.0",
+          "alt": "",
+          "original": "https://static.tildacdn.com/tild3366-6336-4638-a238-643061356532/2a3afaafa858f1ba48f4.png",
+          "zoomUrl": ""
+        },
+        {
+          "key": "image_05",
+          "elemId": "1750151499386",
+          "where": "top=1480.0, left=106.0",
+          "alt": "",
+          "original": "https://static.tildacdn.com/tild3037-3733-4138-b335-623237613231/182815ba1ccf6a99a2bd.png",
+          "zoomUrl": ""
+        },
+        {
+          "key": "image_06",
+          "elemId": "1750151499383",
+          "where": "top=1480.0, left=132.0",
+          "alt": "",
+          "original": "https://static.tildacdn.com/tild6338-3039-4330-b636-373138623566/f789d0122dc0e79bcc03.png",
+          "zoomUrl": ""
+        },
+        {
+          "key": "image_07",
+          "elemId": "1750150886951",
+          "where": "top=1491.0, left=496.0",
+          "alt": "",
+          "original": "img/locationText.png",
+          "zoomUrl": ""
+        },
+        {
+          "key": "image_08",
+          "elemId": "1750151433064",
+          "where": "top=1532.0, left=64.0",
+          "alt": "",
+          "original": "https://static.tildacdn.com/tild3530-3537-4237-a230-643234316634/2312d4914e9186e865c7.png",
+          "zoomUrl": ""
+        },
+        {
+          "key": "image_09",
+          "elemId": "1750151072802",
+          "where": "top=1719.0, left=423.0",
+          "alt": "",
+          "original": "img/restoran.png",
+          "zoomUrl": ""
+        }
+      ]
+    },
+    {
+      "bucket": 2,
+      "label": "Блок по высоте ~1800-2700px (по странице сверху вниз)",
+      "texts": [
+        {
+          "key": "text_01",
+          "elemId": "1750152002005",
+          "where": "top=2392.0, left=309.0",
+          "preview": "встречаемся и настраиваемся на приятный вечер",
+          "value": "встречаемся и настраиваемся на приятный вечер"
+        },
+        {
+          "key": "text_02",
+          "elemId": "1750152424844",
+          "where": "top=2396.0, left=807.0",
+          "preview": "потом сделаем красивые совместные фотки, не опаздывайте ;)",
+          "value": "потом сделаем красивые совместные фотки, не опаздывайте ;)"
+        },
+        {
+          "key": "text_03",
+          "elemId": "1750153240526",
+          "where": "top=2618.0, left=707.0",
+          "preview": "обнимаемся и идём отдыхать",
+          "value": "обнимаемся и идём отдыхать"
+        },
+        {
+          "key": "text_04",
+          "elemId": "1750152867042",
+          "where": "top=2632.0, left=194.0",
+          "preview": "едим, пьём и веселимся",
+          "value": "едим, пьём и веселимся"
+        }
+      ],
+      "links": [
+        {
+          "key": "link_01",
+          "elemId": "1750151094068",
+          "where": "top=1953.0, left=531.0",
+          "text": "открыть карту",
+          "href": "https://yandex.ru/maps/-/CLhYV2l8"
+        }
+      ],
+      "images": [
+        {
+          "key": "image_01",
+          "elemId": "1750151171434",
+          "where": "top=1930.0, left=524.0",
+          "alt": "",
+          "original": "https://static.tildacdn.com/tild3532-3864-4664-b732-306264656437/Ellipse_1.png",
+          "zoomUrl": ""
+        },
+        {
+          "key": "image_02",
+          "elemId": "1750151613554",
+          "where": "top=2169.0, left=459.0",
+          "alt": "",
+          "original": "img/timing.png",
+          "zoomUrl": ""
+        },
+        {
+          "key": "image_03",
+          "elemId": "1750154066405",
+          "where": "top=2269.0, left=2305.0",
+          "alt": "",
+          "original": "https://static.tildacdn.com/tild6434-3234-4861-b635-333030353339/Layer_4.png",
+          "zoomUrl": ""
+        },
+        {
+          "key": "image_04",
+          "elemId": "1750151788344",
+          "where": "top=2280.0, left=149.0",
+          "alt": "",
+          "original": "https://static.tildacdn.com/tild3365-6234-4138-b331-633738353738/4488b79746dd5da501ab.png",
+          "zoomUrl": ""
+        },
+        {
+          "key": "image_05",
+          "elemId": "1750152731832",
+          "where": "top=2286.0, left=615.0",
+          "alt": "",
+          "original": "https://static.tildacdn.com/tild6339-6235-4038-b439-336235613464/4488b79746dd5da501ab.png",
+          "zoomUrl": ""
+        },
+        {
+          "key": "image_06",
+          "elemId": "1750151961421",
+          "where": "top=2345.0, left=279.0",
+          "alt": "",
+          "original": "img/16.00.png",
+          "zoomUrl": ""
+        },
+        {
+          "key": "image_07",
+          "elemId": "1750152508476",
+          "where": "top=2350.0, left=743.0",
+          "alt": "",
+          "original": "img/16.30.png",
+          "zoomUrl": ""
+        },
+        {
+          "key": "image_08",
+          "elemId": "1750153240529",
+          "where": "top=2501.0, left=955.0",
+          "alt": "",
+          "original": "https://static.tildacdn.com/tild6338-3661-4462-a232-373930666366/4488b79746dd5da501ab.png",
+          "zoomUrl": ""
+        },
+        {
+          "key": "image_09",
+          "elemId": "1750153050450",
+          "where": "top=2540.0, left=459.0",
+          "alt": "",
+          "original": "https://static.tildacdn.com/tild3261-6336-4637-a630-616132623365/4488b79746dd5da501ab.png",
+          "zoomUrl": ""
+        },
+        {
+          "key": "image_10",
+          "elemId": "1750153303253",
+          "where": "top=2567.0, left=637.0",
+          "alt": "",
+          "original": "img/23.00.png",
+          "zoomUrl": ""
+        },
+        {
+          "key": "image_11",
+          "elemId": "1750152919277",
+          "where": "top=2587.0, left=193.0",
+          "alt": "",
+          "original": "img/17.00.png",
+          "zoomUrl": ""
+        },
+        {
+          "key": "image_12",
+          "elemId": "1750153696714",
+          "where": "top=2649.0, left=-30.0",
+          "alt": "",
+          "original": "https://static.tildacdn.com/tild6434-3234-4861-b635-333030353339/Layer_4.png",
+          "zoomUrl": ""
+        },
+        {
+          "key": "image_13",
+          "elemId": "1750153915210",
+          "where": "top=2696.0, left=548.0",
+          "alt": "",
+          "original": "img/we1.JPG",
+          "zoomUrl": ""
+        }
+      ]
+    },
+    {
+      "bucket": 3,
+      "label": "Блок по высоте ~2700-3600px (по странице сверху вниз)",
+      "texts": [
+        {
+          "key": "text_01",
+          "elemId": "1750154526431",
+          "where": "top=3174.0, left=320.0",
+          "preview": "Мы очень ждём и с удовольствием готовимся к этому незабываемому дню! Поддержите ",
+          "value": "Мы очень ждём и с удовольствием готовимся к этому незабываемому дню! Поддержите нас вашими улыбками и объятиями, а также красивыми нарядами в палитре торжества:"
+        },
+        {
+          "key": "text_02",
+          "elemId": "1750155754433",
+          "where": "top=3428.0, left=320.0",
+          "preview": "Примеры образов для вашего вдохновения:",
+          "value": "Примеры образов для вашего вдохновения:"
+        }
+      ],
+      "links": [],
+      "images": [
+        {
+          "key": "image_01",
+          "elemId": "1750154121772",
+          "where": "top=2772.0, left=880.0",
+          "alt": "",
+          "original": "https://static.tildacdn.com/tild3037-3733-4138-b335-623237613231/182815ba1ccf6a99a2bd.png",
+          "zoomUrl": ""
+        },
+        {
+          "key": "image_02",
+          "elemId": "1750154121778",
+          "where": "top=2772.0, left=954.0",
+          "alt": "",
+          "original": "https://static.tildacdn.com/tild3366-6336-4638-a238-643061356532/2a3afaafa858f1ba48f4.png",
+          "zoomUrl": ""
+        },
+        {
+          "key": "image_03",
+          "elemId": "1750154156635",
+          "where": "top=2811.0, left=991.0",
+          "alt": "",
+          "original": "https://static.tildacdn.com/tild3635-3637-4137-b138-616535643562/5f9f2b8e900d7a2f266a.png",
+          "zoomUrl": ""
+        },
+        {
+          "key": "image_04",
+          "elemId": "1750154121775",
+          "where": "top=2842.0, left=920.0",
+          "alt": "",
+          "original": "https://static.tildacdn.com/tild6338-3039-4330-b636-373138623566/f789d0122dc0e79bcc03.png",
+          "zoomUrl": ""
+        },
+        {
+          "key": "image_05",
+          "elemId": "1750153896489",
+          "where": "top=2894.0, left=80.0",
+          "alt": "",
+          "original": "img/we2.JPG",
+          "zoomUrl": ""
+        },
+        {
+          "key": "image_06",
+          "elemId": "1750154363528",
+          "where": "top=3089.0, left=499.0",
+          "alt": "",
+          "original": "img/dressCode.png",
+          "zoomUrl": ""
+        },
+        {
+          "key": "image_07",
+          "elemId": "1750155833001",
+          "where": "top=3334.0, left=904.0",
+          "alt": "",
+          "original": "https://static.tildacdn.com/tild6265-3639-4331-b462-666539656165/Layer_6.png",
+          "zoomUrl": ""
+        },
+        {
+          "key": "image_08",
+          "elemId": "1750155318211",
+          "where": "top=3467.0, left=297.0",
+          "alt": "",
+          "original": "img/girls.png",
+          "zoomUrl": "img/girls.png"
+        },
+        {
+          "key": "image_09",
+          "elemId": "1750155307930",
+          "where": "top=3467.0, left=620.0",
+          "alt": "",
+          "original": "img/boys.png",
+          "zoomUrl": "img/boys.png"
+        },
+        {
+          "key": "image_10",
+          "elemId": "1750156087729",
+          "where": "top=3501.0, left=920.0",
+          "alt": "",
+          "original": "https://static.tildacdn.com/tild3332-3935-4464-b566-393436653865/9262da3c675efb490aa5.png",
+          "zoomUrl": ""
+        },
+        {
+          "key": "image_11",
+          "elemId": "1750156141670",
+          "where": "top=3520.0, left=1006.0",
+          "alt": "",
+          "original": "https://static.tildacdn.com/tild3366-6336-4638-a238-643061356532/2a3afaafa858f1ba48f4.png",
+          "zoomUrl": ""
+        },
+        {
+          "key": "image_12",
+          "elemId": "1750156141664",
+          "where": "top=3546.0, left=980.0",
+          "alt": "",
+          "original": "https://static.tildacdn.com/tild3037-3733-4138-b335-623237613231/182815ba1ccf6a99a2bd.png",
+          "zoomUrl": ""
+        },
+        {
+          "key": "image_13",
+          "elemId": "1750156141667",
+          "where": "top=3546.0, left=1006.0",
+          "alt": "",
+          "original": "https://static.tildacdn.com/tild6338-3039-4330-b636-373138623566/f789d0122dc0e79bcc03.png",
+          "zoomUrl": ""
+        }
+      ]
+    },
+    {
+      "bucket": 4,
+      "label": "Блок по высоте ~3600-4500px (по странице сверху вниз)",
+      "texts": [
+        {
+          "key": "text_01",
+          "elemId": "1750155789105",
+          "where": "top=3735.0, left=297.0",
+          "preview": "добавлено для примера*",
+          "value": "добавлено для примера*"
+        },
+        {
+          "key": "text_02",
+          "elemId": "1750156541216",
+          "where": "top=3905.0, left=375.0",
+          "preview": "Если вы хотите сделать для нас сюрприз или уточнить детали торжества, свяжитесь с нашим ведущим Романом",
+          "value": "Если вы хотите сделать для нас сюрприз или уточнить детали торжества, свяжитесь с нашим ведущим Романом"
+        },
+        {
+          "key": "text_03",
+          "elemId": "1750157036152",
+          "where": "top=4177.0, left=375.0",
+          "preview": "Мы хотим, чтобы вы наслаждались вечером, отдыхали и ни о чём не беспокоились. Так как площадка не может обеспечить детский досуг, мероприятие пройдёт в формате 14+",
+          "value": "Мы хотим, чтобы вы наслаждались вечером, отдыхали и ни о чём не беспокоились. Так как площадка не может обеспечить детский досуг, мероприятие пройдёт в формате 14+"
+        },
+        {
+          "key": "text_04",
+          "elemId": "1750157708429",
+          "where": "top=4467.0, left=427.0",
+          "preview": "Пожалуйста, заполните анкету гостя до 1 марта.",
+          "value": "Пожалуйста, заполните анкету гостя до 1 марта."
+        }
+      ],
+      "links": [
+        {
+          "key": "link_01",
+          "elemId": "1750156803172",
+          "where": "top=3995.0, left=500.0",
+          "text": "+7 (952) 844-02-94",
+          "href": "tel:+79528440294"
+        }
+      ],
+      "images": [
+        {
+          "key": "image_01",
+          "elemId": "1750156261793",
+          "where": "top=3819.0, left=517.0",
+          "alt": "",
+          "original": "img/details.png",
+          "zoomUrl": ""
+        },
+        {
+          "key": "image_02",
+          "elemId": "1750157094348",
+          "where": "top=3876.0, left=-97.0",
+          "alt": "",
+          "original": "https://static.tildacdn.com/tild3237-3831-4735-b537-623761313766/Layer_7.png",
+          "zoomUrl": ""
+        },
+        {
+          "key": "image_03",
+          "elemId": "1750156953671",
+          "where": "top=4067.0, left=515.0",
+          "alt": "",
+          "original": "https://static.tildacdn.com/tild6336-3832-4237-a131-643261383833/1b649b260791efa9dc5c.png",
+          "zoomUrl": ""
+        },
+        {
+          "key": "image_04",
+          "elemId": "1750157571589",
+          "where": "top=4091.0, left=92.0",
+          "alt": "",
+          "original": "https://static.tildacdn.com/tild3364-3761-4266-b335-623738336133/noroot.png",
+          "zoomUrl": ""
+        },
+        {
+          "key": "image_05",
+          "elemId": "1750157851937",
+          "where": "top=4188.0, left=262.0",
+          "alt": "",
+          "original": "https://static.tildacdn.com/tild3366-6336-4638-a238-643061356532/2a3afaafa858f1ba48f4.png",
+          "zoomUrl": ""
+        },
+        {
+          "key": "image_06",
+          "elemId": "1750157851930",
+          "where": "top=4214.0, left=236.0",
+          "alt": "",
+          "original": "https://static.tildacdn.com/tild3037-3733-4138-b335-623237613231/182815ba1ccf6a99a2bd.png",
+          "zoomUrl": ""
+        },
+        {
+          "key": "image_07",
+          "elemId": "1750157851934",
+          "where": "top=4214.0, left=262.0",
+          "alt": "",
+          "original": "https://static.tildacdn.com/tild6338-3039-4330-b636-373138623566/f789d0122dc0e79bcc03.png",
+          "zoomUrl": ""
+        },
+        {
+          "key": "image_08",
+          "elemId": "1750157176106",
+          "where": "top=4327.0, left=519.0",
+          "alt": "",
+          "original": "img/anketa.png",
+          "zoomUrl": ""
+        }
+      ]
+    },
+    {
+      "bucket": 5,
+      "label": "Блок по высоте ~4500-5400px (по странице сверху вниз)",
+      "texts": [],
+      "links": [],
+      "images": [
+        {
+          "key": "image_01",
+          "elemId": "1750158360511",
+          "where": "top=5199.0, left=153.0",
+          "alt": "",
+          "original": "https://static.tildacdn.com/tild3233-3535-4763-b361-653433663561/04b4152db4cc6f876be9.png",
+          "zoomUrl": ""
+        },
+        {
+          "key": "image_02",
+          "elemId": "1750158545509",
+          "where": "top=5206.0, left=952.0",
+          "alt": "",
+          "original": "https://static.tildacdn.com/tild3530-3537-4237-a230-643234316634/2312d4914e9186e865c7.png",
+          "zoomUrl": ""
+        },
+        {
+          "key": "image_03",
+          "elemId": "1750158089860",
+          "where": "top=5255.0, left=379.0",
+          "alt": "",
+          "original": "img/happy.png",
+          "zoomUrl": ""
+        },
+        {
+          "key": "image_04",
+          "elemId": "1750158374662",
+          "where": "top=5315.0, left=809.0",
+          "alt": "",
+          "original": "https://static.tildacdn.com/tild3332-3935-4464-b566-393436653865/9262da3c675efb490aa5.png",
+          "zoomUrl": ""
+        }
+      ]
+    },
+    {
+      "bucket": 6,
+      "label": "Блок по высоте ~5400-6300px (по странице сверху вниз)",
+      "texts": [],
+      "links": [],
+      "images": [
+        {
+          "key": "image_01",
+          "elemId": "1750158360517",
+          "where": "top=5404.0, left=232.0",
+          "alt": "",
+          "original": "https://static.tildacdn.com/tild3065-6131-4538-b163-343632666530/51ea9c393843775f6d72.png",
+          "zoomUrl": ""
+        },
+        {
+          "key": "image_02",
+          "elemId": "1750158206550",
+          "where": "top=5412.0, left=367.0",
+          "alt": "",
+          "original": "https://static.tildacdn.com/tild6135-6530-4830-b363-323061303764/7136833aab411af36f9e.png",
+          "zoomUrl": ""
+        },
+        {
+          "key": "image_03",
+          "elemId": "1750158410940",
+          "where": "top=5504.0, left=20.0",
+          "alt": "",
+          "original": "https://static.tildacdn.com/tild3530-3537-4237-a230-643234316634/2312d4914e9186e865c7.png",
+          "zoomUrl": ""
+        },
+        {
+          "key": "image_04",
+          "elemId": "1750158423362",
+          "where": "top=5544.0, left=1080.0",
+          "alt": "",
+          "original": "https://static.tildacdn.com/tild3233-3535-4763-b361-653433663561/04b4152db4cc6f876be9.png",
+          "zoomUrl": ""
+        }
+      ]
+    }
+  ],
+  "survey": {
+    "fields": {
+      "full_name": {
+        "label": "Ваше Имя и Фамилия",
+        "placeholder": "Иван Иванов",
+        "required": true
+      },
+      "attending": {
+        "label": "Планируете ли вы присутствовать на свадьбе?",
+        "options": {
+          "yes": "Да, буду с удовольствием!",
+          "no": "К сожалению, не смогу"
+        },
+        "required": true
+      }
+    },
+    "successMessage": "Спасибо за ваш ответ!"
+  },
+  "__help": {
+    "about": "Редактируйте значения прямо в этом файле. Дизайн/верстка не меняются — на странице подставляются только значения.",
+    "how_to_find": "Контент разбит по блокам сверху вниз (ориентир: поле 'where' с top/left). В 'preview' — короткая подсказка, что это за текст на странице.",
+    "notes": [
+      "Для текста правьте поле value.",
+      "Для ссылок правьте href и (если нужно) text.",
+      "Для картинок правьте original (URL изображения) и alt."
+    ]
+  },
+  "wedding": {
+    "date": "2026-04-25"
+  },
+  "calendar": {
+    "enabled": true,
+    "weddingDate": "2026-04-25",
+    "monthTitleElemId": "1750147052249",
+    "yearElemId": "1750147052255",
+    "calligraphyElemId": "1750146986794",
+    "heartElemId": "1750147676968",
+    "bucket": 1,
+    "weekStartsOn": "monday",
+    "heartRefElemId": "",
+    "calligraphyMode": "static_image",
+	"calligraphyStaticUrl": "img/april.png"
+  }
+}
